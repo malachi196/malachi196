@@ -2,7 +2,7 @@
 I'm `malachi196`, a young programmer who builds random utilities and programs.
 
 - 🔭 I’m currently working on Wii Homebrew/WAD Development
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to solve rubik's cubes :)
 
