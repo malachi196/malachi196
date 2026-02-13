@@ -2,9 +2,9 @@
 I'm `malachi196`, a young programmer who builds random utilities and programs.
 
 - 🔭 I’m currently working on Minecraft plugin development
-- 🌱 I’m currently learning C++ (and Java)
+- 🌱 I’m currently learning C++ and TypeScript (and $\LaTeX$)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to solve rubik's cubes :)
+- ⚡ Fun fact: I am a flautist
 
 ### Github info:
 
