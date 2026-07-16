@@ -8,6 +8,6 @@ I'm `malachi196`, a young programmer who builds random utilities and programs.
 
 ### Github info:
 
-![stats](https://github-readme-stats.vercel.app/api?username=malachi196&theme=tokyonight)
+![stats](https://github-readme-stats-kappa-tan-39.vercel.app//api?username=malachi196&theme=tokyonight)
 
-![toplang](https://github-readme-stats.vercel.app/api/top-langs?username=malachi196&theme=tokyonight)
+![toplang](https://github-readme-stats-kappa-tan-39.vercel.app//api/top-langs?username=malachi196&theme=tokyonight)
