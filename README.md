@@ -1,10 +1,10 @@
-## Hi there 👋
-I'm `malachi196`, a young programmer who builds random utilities and programs.
+## Hello there 👋
+I'm `malachi196`, a young programmer who builds random utilities and programs as needed.
 
-- 🔭 I’m currently working on website development
-- 🌱 I’m currently learning C++ and TypeScript (and $\LaTeX$)
+- 🔭 I’m currently working on [SmolTOP](https://github.com/malachi196/smoltop-2fa/)
+- 🌱 I’m currently learning C/C++ (and yet more python libraries)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a flautist
+- ⚡ Fun fact: I am an avid pianist 🎹
 
 ### Github info:
 
